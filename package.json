@@ -1,8 +1,0 @@
-{
-  "name": "sql-etl-flowchart-root",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "build": "cd app/frontend && npm install && npm run build"
-  }
-}
